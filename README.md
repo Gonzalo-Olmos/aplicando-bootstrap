@@ -1,8 +1,8 @@
 # Guitarreando un poco con
 ...
-Bootstrap
-JS
-HTML
-CSS
+Bootstrap, 
+JS, 
+HTML, 
+CSS, 
 PHP
 ...
