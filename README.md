@@ -1,2 +1,8 @@
-# tirando-bootstrap
-Potencial guiso de lentejas con bootstrap
+# Guitarreando un poco con
+...
+Bootstrap
+JS
+HTML
+CSS
+PHP
+...
